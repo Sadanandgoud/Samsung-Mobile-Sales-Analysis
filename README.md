@@ -26,5 +26,3 @@ git push origin main
 
 📊 **Power BI File:** [Download Samsung Mobile Sales Report](#)  
 🔗 **Live Dashboard (If Hosted):** [Power BI Report Link](#)  
-
-📂 **Explore the analysis and insights in this repository!** 🚀  
